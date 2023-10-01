@@ -1,3 +1,4 @@
 Pandas
 Matplotlib
 Seaborn
+NLTK
